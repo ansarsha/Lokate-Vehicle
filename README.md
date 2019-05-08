@@ -4,4 +4,4 @@ This is a Sample App Fetches the Vehicles location from an end point and Plottin
 # Demo 
 
 
-![solarized dualmode](https://github.com/ansarsha/Lokate-vehicle/blob/master/Src/MapDemoVideo.mov)
+![solarized dualmode](https://github.com/ansarsha/Lokate-Vehicle/blob/master/Src/MapDemoVideo.mov)
