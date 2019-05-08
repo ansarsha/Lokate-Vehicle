@@ -1,0 +1,6 @@
+framework module Pods_Lokate_VehicleTests {
+  umbrella header "Pods-Lokate VehicleTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
